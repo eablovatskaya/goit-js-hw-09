@@ -1,0 +1,31 @@
+#datetime-picker {
+  width: 150px;
+  height: 30px;
+  border: 2px solid rgb(3, 99, 19);
+  font: inherit;
+  text-align: center;
+}
+.control {
+  display: flex;
+  align-content: center;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+}
+
+.timer {
+  display: flex;
+  column-gap: 30px;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.field {
+  font-size: 25px;
+  font-weight: 500;
+  color: rgb(3, 99, 19);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
